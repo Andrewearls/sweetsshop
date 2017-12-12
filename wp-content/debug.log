@@ -14,3 +14,204 @@
 [21-Nov-2017 22:48:56 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\SweetShop\wp-includes\post-template.php on line 298
 [26-Nov-2017 02:46:26 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"::","locale":"en_US","timezone":"America\/Los_Angeles"}},"response_code":200,"response_body":{"location":{"ip":"71.237.155.52"},"events":"1 events trimmed."}}
 [09-Dec-2017 04:57:00 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"::","locale":"en_US","timezone":"America\/Los_Angeles"}},"response_code":200,"response_body":{"location":{"ip":"71.237.155.52"},"events":"0 events trimmed."}}
+[10-Dec-2017 22:43:53 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"::","locale":"en_US","timezone":"America\/Los_Angeles"}},"response_code":200,"response_body":{"location":{"ip":"98.246.172.103"},"events":"0 events trimmed."}}
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:05 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:06 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:07 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 884
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 886
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 888
+[10-Dec-2017 22:45:08 UTC] PHP Notice:  Undefined variable: _menu_item_type in C:\xampp\htdocs\sweetshop\wp-content\plugins\wordpress-importer\wordpress-importer.php on line 890
+[10-Dec-2017 22:58:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sweetshop\wp-admin\includes\post.php on line 21
+[12-Dec-2017 01:35:36 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"::","locale":"en_US","timezone":"America\/Los_Angeles"}},"response_code":200,"response_body":{"location":{"ip":"73.240.112.253"},"events":"0 events trimmed."}}
