@@ -11,3 +11,21 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-seventeen-child
 */
+
+	.has-sidebar:not(.error404) #primary {
+		float: none;
+		width: 100%;
+	}
+
+	.archive:not(.page-one-column):not(.has-sidebar) #primary article {
+		float: none;
+		width: 100%;
+	}
+
+	.price {
+		float: right;
+	}
+
+	body:not(.has-sidebar):not(.page-one-column) .page-header{
+		width: 100%;
+	}

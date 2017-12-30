@@ -17,6 +17,7 @@ get_header(); ?>
 	<?php if ( have_posts() ) : ?>
 		<header class="page-header">
 			<h1>Menu</h1>
+			<h2>Call to Order: 503-999-9999</h2>
 			<?php
 				/** 
 				   replaced because we only have one archive and I am lazy
@@ -59,7 +60,7 @@ get_header(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-	<?php get_sidebar(); ?>
+	<!--php get_sidebar(); -->
 </div><!-- .wrap -->
 
 <?php get_footer();

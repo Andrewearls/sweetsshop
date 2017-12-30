@@ -17,7 +17,9 @@ get_header(); ?>
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
 
-		Home page front page
+		<?php foreach (get_pages(['sort_column' => 'menu_order']) as $post) {
+			get_template_part( 'template-parts/page/content', 'front-page-panels');
+		} ?>
 
 	</main><!-- #main -->
 </div><!-- #primary -->
