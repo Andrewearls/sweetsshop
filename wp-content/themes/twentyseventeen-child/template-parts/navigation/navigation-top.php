@@ -19,10 +19,10 @@
 	</button>
 
 	<ul id="top-menu" class="menu">
-		<li class="menu-item"><a href="http://localhost/sweetshop/">Home</a></li>
-		<li class="menu-item"><a href="http://localhost/sweetshop/menu/">Menu</a></li>
-		<li class="menu-item"><a href="http://localhost/sweetshop/about/">About</a></li>
-		<li class="menu-item"><a href="http://localhost/sweetshop/contact/">Contact</a></li>
+		<li class="menu-item"><a href="http://sweetsshop.andrewearls.net/">Home</a></li>
+		<li class="menu-item"><a href="http://sweetsshop.andrewearls.net/menu/">Menu</a></li>
+		<li class="menu-item"><a href="http://sweetsshop.andrewearls.net/about/">About</a></li>
+		<li class="menu-item"><a href="http://sweetsshop.andrewearls.net/contact/">Contact</a></li>
 	</ul>
 	
 	<?php
