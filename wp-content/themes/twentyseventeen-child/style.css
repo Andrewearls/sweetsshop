@@ -29,3 +29,25 @@
 	body:not(.has-sidebar):not(.page-one-column) .page-header{
 		width: 100%;
 	}
+
+	/* The header image on secondary pages is aligning at the bottom on IE and Edge as
+   neither supports object-fit - this change moves the image down so the center (more
+   or less) of the image is displayed rather than the bottom (changed translateY from 0 to 50%) */
+.has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media img {
+	-ms-transform: translateX(-50%) translateY(50%);
+	-moz-transform: translateX(-50%) translateY(50%);
+	-webkit-transform: translateX(-50%) translateY(50%);
+	transform: translateX(-50%) translateY(50%);
+}
+
+/* For browsers that support 'object-fit' */
+@supports ( object-fit: cover ) {
+	.has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media img {
+		-o-object-fit: cover;
+		object-fit: cover;
+		-ms-transform: none;
+		-moz-transform: none;
+		-webkit-transform: none;
+		transform: none;
+		width: 100%;
+	}
