@@ -38,6 +38,10 @@
 	-moz-transform: translateX(-50%) translateY(50%);
 	-webkit-transform: translateX(-50%) translateY(50%);
 	transform: translateX(-50%) translateY(50%);
+
+}
+
+.has-header-image .custom-header-media img, .has-header-video .custom-header-media video, .has-header-video .custom-header-media iframe {
 	max-width: 100%;
 }
 
